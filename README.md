@@ -7,5 +7,5 @@
 1844007 김유나</br>
 1923012 노하은</br>
 </br>
-DB2021Team10 폴더: (자바 코드)</br>
+DB2021Team10 폴더: 자바 코드</br>
 sql files 폴더: 테스트용 데이터베이스 구축용 sql 파일(dropdb.sql로 환경을 초기화한 뒤 create.sql로 데이터 생성)
